@@ -1,2 +1,2 @@
-# shllScript
+# shellScript
 学习shell
